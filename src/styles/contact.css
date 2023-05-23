@@ -1,0 +1,32 @@
+.contact-button {
+    position: fixed;
+    bottom: 1%;
+    right: 3%;
+    z-index: 9999;
+    padding: 1% 2%;
+    background-color: #c1a85b;
+    color: #333;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
+.contact-button:hover {
+    background-color: #a37d33;
+}
+.custom-rate {
+    position: fixed;
+    bottom: 1%;
+    right: 89%;
+    z-index: 9999;
+    padding: 1% 2%;
+    background-color: #c1a85b;
+    color: #333;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
+.custom-rate:hover {
+    background-color: #a37d33;
+}

@@ -1,0 +1,18 @@
+.content-wrapper {
+  display: flex;
+  width: 100%;
+}
+
+.elephant-container {
+  flex: 1;
+}
+
+.elephant-image {
+  max-width: 100%;
+  height: 120%;
+}
+
+.weather-container {
+  flex: 1;
+  margin-left: 20px;
+}

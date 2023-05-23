@@ -1,0 +1,34 @@
+.safari-container {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+
+}
+.safari-container h2 {
+    font-size: 230%;
+    font-weight: bold;
+    color: #b69805;
+    margin-bottom: 1%;
+    text-align: center;
+
+}
+
+.safari-container p {
+    font-size: 180%;
+    color: #333;
+    line-height: 1.5;
+    text-align: center;
+}
+.see-more {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 1% 3%;
+    cursor: pointer;
+    font-size: 16px;
+    display: inline-block;
+    margin-top: 25px; 
+}
+.see-more:hover {
+    background-color: #555;
+}

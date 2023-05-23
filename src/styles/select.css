@@ -1,0 +1,23 @@
+.city-container{
+margin-top: 5%;
+
+}
+.city-button {
+    display: inline-block;
+    padding: 3%;
+    margin: 5%;
+    background-color: #f1f1f1;
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 0%;
+}
+.city-button:hover {
+    background-color: #ddd;
+}
+h2 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
